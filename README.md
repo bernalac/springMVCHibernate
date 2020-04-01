@@ -1,4 +1,4 @@
-# Tarea 
+# Tarea RetocandoProject
 1DAW IES Polígono Sur
 
 # springMVCHibernate
@@ -23,9 +23,12 @@ Las librerías necesarias a partir de este fork son:
 sqlite3
 hibernate sqlite3
 ```
+
 Se pueden obtener mediante estas urls:
+```
 https://mvnrepository.com/artifact/org.xerial/sqlite-jdbc/3.28.0
 https://mvnrepository.com/artifact/com.zsoltfabok/sqlite-dialect/1.0
+```
 
 ## Creación
 Neesitamos tener creada una database en cada servidor y una tabla en cada una con sus columnas.
