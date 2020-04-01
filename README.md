@@ -9,7 +9,7 @@ Este proyecto realiza inserts, edits y deletes sobre MySQL y SQLite3.
 Haciendo fork, teníamos la funcionalidad de interaccionar con la base de datos MySQL. A partir de ello, he realizado una segunda funcionalidad que es la de interaccionar con la base de datos SQLite3.
 He relizado la moficiación de los parámetros del fichero database.properties y he añadido dos drivers al pom.xml.
 
-### Prerequisites
+### Prerequisitos
 
 Qué cosas necesitamos antes de empezar:
 Instalaciones:
@@ -37,7 +37,7 @@ MySQL: script.sql
 SQLite3: paises.db
 ```
 
-## Execute
+## Ejecución
 
 Para ejecutar, nos vamos al raíz del proyecto maven y ejecutamos el comando:
 ```
