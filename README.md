@@ -36,6 +36,7 @@ Los ficheros de creación de base de datos están dentro de project/sql/ y se ll
 MySQL: script.sql
 SQLite3: paises.db
 ```
+Para usar una base de datos u otra, sólo basta con tocar el archivo database.properties ya que comentando los parámetros de la que no vayamos a usar, estaría en funcionamiento la otra.
 
 ## Ejecución
 
